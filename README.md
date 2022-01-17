@@ -1,6 +1,6 @@
 # sf-fs
 
-All unit test are skipped so the failing test do not pollute your console output. You can use your favorite code editor.
+You can use your favorite code editor.
 
 ## Rules
 
