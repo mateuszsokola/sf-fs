@@ -4,8 +4,8 @@ You can use your favorite code editor.
 
 ## Rules
 
-* The `create_employee` function is used by several services by very different teams within organization. The API must remain reverse-compatible.
-* Do NOT use external libraries.
+* The `create_employee` function is used by several services by different teams within the organization. The API must remain reverse-compatible.
+* Do NOT use any external libraries.
 * Feel free to ask questions.
 
 ## Tasks
