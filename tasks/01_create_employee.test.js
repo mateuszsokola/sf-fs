@@ -35,7 +35,7 @@ describe('create_employee', () => {
       }
 
       expect(() => create_employee(john_doe))
-        .toThrow('You must provide first name to create an employee');
+        .toThrow('You must provide first name to create a new employee');
     });
 
     it('requires last name', () => {
@@ -48,7 +48,7 @@ describe('create_employee', () => {
       }
 
       expect(() => create_employee(john_doe))
-        .toThrow('You must provide last name to create an employee');
+        .toThrow('You must provide last name to create a new employee');
     });
 
     it('requires a position', () => {

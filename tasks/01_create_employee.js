@@ -41,7 +41,7 @@ function create_employee(personal_data) {
     throw new Error('You must assign salary to create a new employee');
   }
 
-  if (employee.history[0].current !== undefined) {
+  if (employee.history[0].current === undefined) {
     throw new Error('You must assign current position to create a new employee');
   }
 
