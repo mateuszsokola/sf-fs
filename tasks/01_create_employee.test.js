@@ -1,6 +1,6 @@
 const create_employee = require("./01_create_employee");
 
-describe("create_employee", () => {
+describe.skip("create_employee", () => {
   it("creates an employee", () => {
     // Do not change the input
     const john_doe = {

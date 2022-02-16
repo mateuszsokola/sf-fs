@@ -10,8 +10,9 @@ You can use your favorite code editor.
 
 ## Tasks
 
-1. Our new intern wrote a controller responsible for creating new employees. Unfortunately, all unit tests are failing - try to fix them.
-2. A senior software engineer complained about data validation. Validation rules seem to be duplicated, the code is not reusable and we want to use it for other controllers. It must be refactored - propose a refactoring plan.
+1. Implement `merge_deep` function.
+2. Our new intern wrote a controller responsible for creating new employees. Unfortunately, all unit tests are failing - try to fix them.
+3. A senior software engineer complained about data validation. Validation rules seem to be duplicated, the code is not reusable and we want to use it for other controllers. It must be refactored - propose a refactoring plan.
 
 ## How to run?
 
